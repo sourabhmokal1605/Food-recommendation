@@ -1,1 +1,1 @@
-# Project-Food-Recommendation-
+open IPYNB Files in Jupyter notebook and after executing the ipynb file you will get the url for the frontend at the bottom after clicking on that you can get the result and enter any dish which you want to select which is part of the dataset only(indian_food.csv dataset)
